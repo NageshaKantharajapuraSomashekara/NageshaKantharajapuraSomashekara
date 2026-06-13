@@ -1,8 +1,6 @@
 ![logo](https://github.com/NAGESHGOWDA1993/NAGESHGOWDA1993/blob/main/Nagesha.PNG)
 <h1 align="center">Hi 👋, I'm Nagesha Kantharajapura somashekara</h1>
-<h3 align="center">A passionate Cloud&DevOps Engineer</h3> 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NAGESHGOWDA1993&show_icons=true&theme=omni"/>
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAGESHGOWDA1993&layout=compact&theme=omni"/>
+<h3 align="center">passionate Cloud&DevOps Engineer</h3> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nageshagowda1993&label=Profile%20views&color=0e75b6&style=flat" alt="nageshagowda1993" /> </p>
