@@ -1,6 +1,6 @@
 ![logo](https://github.com/NAGESHGOWDA1993/NAGESHGOWDA1993/blob/main/Nagesha.PNG)
 <h1 align="center">Hi 👋, I'm Nagesha Kantharajapura somashekara</h1>
-<h3 align="center">passionate Cloud&DevOps Engineer</h3> 
+<h3 align="center">Passionate Cloud & DevOps Engineer specializing in cloud infrastructure and automation</h3> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nageshagowda1993&label=Profile%20views&color=0e75b6&style=flat" alt="nageshagowda1993" /> </p>
